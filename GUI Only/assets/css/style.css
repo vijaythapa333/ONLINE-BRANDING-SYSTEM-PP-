@@ -1,0 +1,218 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: arial;
+    line-height: 25px;
+}
+body{
+    background-color: rgb(241,241,241);
+}
+.wrapper{
+    width: 95%;
+    border: 1px solid black;
+    margin: 1% auto;
+}
+.clearfix:after {
+   content: " ";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+.header{
+    width: ;
+    border: 1px solid red;
+}
+.logo{
+    width: 20%;
+    float: left;
+    border: 1px solid yellowgreen;
+}
+.menu{
+    width: 45%;
+    border: 1px solid yellowgreen;
+    float: left;
+    margin: 0 5%;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul a{
+    color: rgb(102,102,102);
+    padding: 1%;
+    text-decoration: none;
+}
+.menu ul a:hover{
+    background-color: rgb(245,124,33);
+    color: white;
+}
+.menu ul a li{
+    display: inline;
+    margin: 0 1%;
+}
+.contact{
+    float: right;
+    width: 20%;
+    border: 1px solid yellowgreen;
+    font-size: 1.3em;
+    color: rgb(245,124,33);
+}
+
+.banner{
+    border: 1px solid red;
+    background-image: url("../../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 2% 0;
+}
+.banner .slider{
+    width: 60%;
+    height: auto;
+    border: 1px solid yellowgreen;
+    float: left;
+}
+.banner .register{
+    border: 1px solid yellowgreen;
+    width: 30%;
+    float: right;
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: white;
+}
+.banner .register-form{
+    margin: 3% auto;
+    padding: 5%;
+    border-radius: 5px;
+    background-color: rgb(222,221,221);
+}
+.banner .register-form input[type="text"],input[type="email"],input[type="tel"]
+{
+    padding: 1%;
+    width: 95%;
+    margin: 4% 0 0 0;
+}
+.banner .register-form input[type="submit"]
+{
+    padding: 4%;
+    width: 98%;
+    margin: 3% 0 0 0;
+    font-size: 1.0em;
+    background-color: rgb(245,124,33);
+    color: white;
+}
+.banner .register-form input[type="submit"]:hover{
+    background-color: rgb(248,150,38);
+    cursor: pointer;
+}
+
+.services{
+    text-align: center;
+}
+.services .service-box{
+    width: 25%;
+    background-color: white;
+    float: left;
+    margin: 1% 3%;
+    padding: 1%;
+    border: 1px solid silver;
+}
+.brands{
+    background-color: white;
+}
+.brands .categories
+{
+    width: 60%;
+    border: 1px solid yellowgreen;
+    float: left;
+    padding: 1%;
+}
+.brands .categories ul{
+    list-style-type: none;
+}
+.brands .categories ul a{
+    color: rgb(102,102,102);
+    text-decoration: none;
+    padding: 1%;
+}
+.brands .categories ul a:hover{
+    color: rgb(245,124,33);
+    text-decoration: underline;
+}
+.brands .categories ul a li{
+    display: inline;
+}
+.brands .search{
+    width: 35%;
+    padding: 1%;
+    border: 1px solid yellowgreen;
+    float: right;
+}
+.brands .search input[type="search"]
+{
+    width: 98%;
+    padding: 1%;
+    border: 2px solid rgb(245,124,33);
+}
+.brands h2{
+    margin-left: 1%;
+}
+.brands .brand-box{
+    width: 18%;
+    float: left;
+    margin: 0.5%;
+    padding: 0.4%;
+    background-color: white;
+    border: 1px solid silver;
+}
+.footer{
+    
+}
+.footer .quick-links{
+    width: 70%;
+    border: 1px solid yellowgreen;
+    float: left;
+}
+.footer .quick-links .quick-box{
+    width: 31%;
+    float: left;
+    margin: 1%;
+}
+.footer .quick-links .quick-box ul{
+    list-style-type: none;
+}
+.footer .quick-links .quick-box ul a{
+    color: grey;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+.footer .quick-links .quick-box ul a:hover{
+    color: rgb(245,124,33);
+    text-decoration: underline;
+}
+.footer .followup input[type="submit"]{
+    background-color: rgb(245,124,33);
+    color: white;
+    padding: 1%;
+    margin-top: 2%;
+}
+.footer .followup input[type="submit"]:hover{
+    background-color: rgb(248,150,38);
+    cursor: pointer;
+}
+.footer .followup{
+    width: 25%;
+    float: right;
+}
+.footer .followup p{
+    color: grey;
+    font-size: 0.9em;
+    text-align: left;
+    line-height: 15px;
+}
+.footer p{
+    color: grey;
+    font-size: 0.9em;
+    text-align: center;
+}

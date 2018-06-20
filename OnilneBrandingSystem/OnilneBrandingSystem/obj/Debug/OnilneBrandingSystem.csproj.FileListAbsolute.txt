@@ -1,0 +1,98 @@
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\ApplicationInsights.config
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\csc.exe
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\vbc.exe
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\VBCSCompiler.exe
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.dll.config
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.pdb
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Web.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.ApplicationInsights.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Web.xml
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.ApplicationInsights.xml
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.dll
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.pdb
+E:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\ApplicationInsights.config
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\csc.exe
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\vbc.exe
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.dll.config
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.pdb
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.dll
+C:\Users\Vijay\Documents\online-branding-system-pp\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.pdb
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\ApplicationInsights.config
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\csc.exe
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\System.Collections.Immutable.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\System.Reflection.Metadata.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\vbc.exe
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\VBCSCompiler.exe
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\roslyn\VBCSCompiler.exe.config
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.dll.config
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\OnilneBrandingSystem.pdb
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.DependencyCollector.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Web.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.WindowsServer.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.ApplicationInsights.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.DependencyCollector.xml
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.Web.xml
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.AI.WindowsServer.xml
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.ApplicationInsights.xml
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.csprojResolveAssemblyReference.cache
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.dll
+G:\The British College\Production Project\Assignment\Project\OnilneBrandingSystem\OnilneBrandingSystem\obj\Debug\OnilneBrandingSystem.pdb

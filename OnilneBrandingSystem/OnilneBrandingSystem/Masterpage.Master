@@ -1,0 +1,123 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="OnilneBrandingSystem.Masterpage" %>
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head runat="server">
+        <meta charset="UTF-8" />
+        <meta name="author" content="Vijay Thapa" />
+        <meta name="description" content="Online Branding System" />
+        <meta name="keywords" content="Online Branding System, Marketing System, Brand Marketing, Advertising, Onling Advertising System,
+        " />
+        
+        <title>Online Branding System</title>
+        <link rel="stylesheet" type="text/css" href="~/assets/css/style.css" />
+        
+        <script type="text/html" src="~/assets/js/JQuery.js"></script>
+        <!--Font Awesome Starts Here-->
+        <link rel="stylesheet" href="~/assets/font-awesome/css/font-awesome.min.css" />
+        <!--Font Awesome Ends Here-->
+
+        <!--ADDING FANCYBOX CSS FILE-->
+        <link rel="stylesheet" type="text/css" href="~/assets/fancybox/source/jquery.fancybox.css" />
+        <!--ADDING FANCYBOX JAVASCRIPT FILE-->
+        <script type="text/javascript" src="~/assets/fancybox/source/jquery.fancybox.pack.js"></script>
+        <script type="text/javascript" src="~/assets/fancybox/source/jquery.fancybox.js"></script>
+       
+
+        <!-- Start WOWSlider.com HEAD section -->
+        <link rel="stylesheet" type="text/css" href="~/assets/slider/engine1/style.css" />
+        <script type="text/javascript" src="~/assets/slider/engine1/jquery.js"></script>
+        <!-- End WOWSlider.com HEAD section -->
+
+        <!--ADDING JQUERY FILE-->
+        <script type="text/javascript" src="~/assets/js/script.js"></script>
+    </head>
+    
+    <body>
+        <!--Header Starts Here-->
+        <header class="header">
+            <div class="wrapper">
+                <div class="logo">
+                    <h3>Logo Goes Here</h3>
+                </div>
+                
+                <nav class="menu">
+                    <ul>
+                        <a href="~/Pages/Home.aspx" runat="server"><li>Home</li></a>
+                        <a href="#"><li>About</li></a>
+                        <a href="#"><li>Services</li></a>
+                        <a href="~/Pages/RegisterBrand.aspx" runat="server"><li>Sign Up</li></a>
+                        <a href="~/Pages/Login.aspx" runat="server">
+                            <li><asp:Label ID="lblLoginmenu" runat="server" Text=""></asp:Label></li>
+                        </a>
+                        <a href="~/Pages/brandProfile.aspx" runat="server">
+                            <li><asp:Label ID="lblBrandProfile" runat="server" Text=""></asp:Label></li>
+                        </a>
+                        <a href="~/Pages/Logout.aspx" runat="server">
+                            <li><asp:Label ID="lblLogoutMenu" runat="server" Text=""></asp:Label></li>
+                        </a>
+                    </ul>
+                   
+                </nav>
+                
+                
+                <div class="contact">
+                    <p class="title">CALL (+977) 9846589363</p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </header>
+        <!--Header Ends Here-->
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+        </asp:ContentPlaceHolder>
+        
+        <!--Footer Starts Here-->
+        <footer class="footer">
+            <div class="wrapper">
+                <div class="quick-links">
+                    <div class="quick-box">
+                        <strong>Guide</strong>
+                        <ul>
+                            <li><a href="#">Membership &amp; Account</a></li>
+                            <li><a href="#">Branding</a></li>
+                            <li><a href="#">Help Center</a></li>
+                        </ul>
+                        
+                    </div>
+                    
+                    <div class="quick-box">
+                        <strong>About Us</strong>
+                        <ul>
+                            <li><a href="#">Company Overview</a></li>
+                            <li><a href="#">Investor Relations</a></li>
+                            <li><a href="#">Career</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="quick-box">
+                        <strong>Contact Us</strong>
+                        <ul>
+                            <li><a href="#">Inquiry via Email</a></li>
+                            <li><a href="#">Call on TOLL free number</a></li>
+                            <li><a href="#">SNS</a></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                
+                <div class="followup">
+                    <form method="post" action="">
+                        <input type="email" name="email" placeholder="Your Email" />
+                        <input type="submit" name="submit" value="SUBSCRIBE" />
+                    </form>
+                    <p>Subscribe now to get updates on promotions and coupons</p>
+                </div>
+                <div class="clearfix"></div>
+                <p>All Rights Reserved &copy; Online Branding System, 2016.</p>
+            </div>
+        </footer>
+        <!--Footer Ends Here-->
+    </body>
+</html>
