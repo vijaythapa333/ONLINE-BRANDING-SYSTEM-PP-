@@ -16,7 +16,7 @@ iv. Attractive and Responsive web pages, Online Branding System is designed usin
 3. Go to web.config file and add your own connection string or connection to database.
 4. If your database is connected then you must be good to go.
 
-More Details & Documentation at: https://vijaythapa.blogspot.com/2018/06/recommendation-system-project-asp-dot-net.html
+More Details & Documentation at: https://vijaythapa.com.np/2018/06/recommendation-system-project-asp-dot-net.html
 
 Contact Me at hi@vijaythapa.com
 
